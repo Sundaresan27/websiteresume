@@ -1,0 +1,71 @@
+.top-profile{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+right-profile{
+  padding-top: 10px;
+}
+.sundar-photo{
+  width: 260px;
+  padding-left: 20px;
+}
+table {
+  font-family: arial, sans-serif;
+}
+td, th {
+  text-align: left;
+  padding: 4px;
+}
+.education{
+  background-color: white;
+}
+.programming-skills{
+  background-color: white;
+}
+.project{
+  background-color: white;
+}
+.certificate{
+  background-color: white;
+}
+.strength{
+  background-color: white;
+}
+.description{
+  background-color: white;
+}
+.edu1{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.edu2 {
+  text-align: left;
+  padding: 8px;
+}
+
+edu3:nth-child(even) {
+  background-color: white;
+}
+.c {
+  text-indent: 10%;
+}
+h2{
+  text-align: right;
+}
+h3{
+  background-color:#0000ff;
+  color: White;
+}
+h4{
+  font-family: arial, sans-serif;
+}
+h5{
+  font-family: arial, sans-serif;
+  line-height: 10px;
+  letter-spacing: 1px;
+}
+.last{
+  text-align: right;
+}
